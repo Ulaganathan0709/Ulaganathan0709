@@ -25,8 +25,7 @@ Below are some of the projects I've contributed to:
 
 ## Connect with Me
 - **LinkedIn:** [your-linkedin](#your_linkedin_profile)
-- **GitHub:** [your-github](#your_github_profile)
-- **Email:** [your-email](ulaganathan070996@gmail.com)
+- **Email:** ulaganathan070996@gmail.com
 
 Feel free to reach out for collaborations or just for a chat!
 
