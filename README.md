@@ -4,7 +4,7 @@
 I'm a MERN stack developer certified by Guvi. I currently work at Art Technologies Software Pvt Ltd, leveraging my expertise in JavaScript, React, CSS, and DOM to build and maintain sophisticated web applications.
 
 ## Professional Background
-- **Current Position:** Full Stack Developer at Art Technologies Software Pvt Ltd
+- **Current Position:** Test Anakysis at Art Technologies Software Pvt Ltd
 - **Previous Experience:** 2 years in software testing, where I honed my skills in both manual and automated testing environments.
 
 ## Technical Skills
@@ -26,10 +26,8 @@ Below are some of the projects I've contributed to:
 ## Connect with Me
 - **LinkedIn:** [your-linkedin](#your_linkedin_profile)
 - **GitHub:** [your-github](#your_github_profile)
-- **Email:** [your-email](#your_email)
+- **Email:** [your-email](ulaganathan070996@gmail.com)
 
 Feel free to reach out for collaborations or just for a chat!
 
 ---
-
-> "Quote that inspires you" - *Author Name*
