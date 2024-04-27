@@ -1,23 +1,27 @@
 # Hello, I'm Ulaganathan 👋
 
 ## About Me
-I'm a MERN stack developer certified by Guvi. I currently work at Art Technologies Software Pvt Ltd, leveraging my expertise in JavaScript, React, CSS, and DOM to build and maintain sophisticated web applications.
+I'm a Test Analyst at Art Technologies Software Pvt Ltd, with a background in learning MERN stack development. While I focus primarily on theoretical aspects and project designs, my hands-on experience continues to grow.
 
 ## Professional Background
-- **Current Position:** Test Anakysis at Art Technologies Software Pvt Ltd
-- **Previous Experience:** 2 years in software testing, where I honed my skills in both manual and automated testing environments.
+- **Current Position:** Test Analyst at Art Technologies Software Pvt Ltd
+- **Technical Training:** MERN Stack Developer
+  - HTML5 🌐
+  - Node.js 🟢
+  - React ⚛️
+  - React Native 📱
 
 ## Technical Skills
-- **Frontend:** JavaScript, React, CSS, HTML
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools & Technologies:** Git, Docker, Jenkins
-- **Testing:** Experienced in manual and automation testing
+- **Web Technologies:**
+  - HTML5 🌐
+  - Node.js 🟢
+  - React ⚛️
+  - React Native 📱
 
 ## Projects
-Below are some of the projects I've contributed to:
-1. **Project Name** - A brief description. Developed by [Author's Name](#author_link) - *Contributed by Ulaganathan*.
-2. **Project Name** - A brief description. Developed by [Author's Name](#author_link) - *Contributed by Ulaganathan*.
+Below are some theoretical projects and contributions I've planned or designed:
+1. **Project Name** - A brief description of the project and its goals. Designed by Ulaganathan.
+2. **Project Name** - A brief description of the project and its goals. Designed by Ulaganathan.
    - [View the repository](#link_to_repository)
 
 ## Certifications
@@ -25,8 +29,11 @@ Below are some of the projects I've contributed to:
 
 ## Connect with Me
 - **LinkedIn:** [your-linkedin](#your_linkedin_profile)
+- **GitHub:** [your-github](#your_github_profile)
 - **Email:** ulaganathan070996@gmail.com
 
 Feel free to reach out for collaborations or just for a chat!
 
 ---
+
+> "Quote that inspires you" - *Author Name*
