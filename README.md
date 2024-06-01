@@ -31,8 +31,8 @@ I'm a Test Analyst at Art Technologies Software Pvt Ltd, with a robust backgroun
 - Planned and designed theoretical projects, with a focus on applying practical knowledge.
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [www.linkedin.com/in/ulaga-nathan-dev](#your_linkedin_profile)
-- **GitHub:** [[your-github-profile](https://github.com/Ulaganathan0709)](#your_github_profile)
+- **LinkedIn:** [www.linkedin.com/in/ulaga-nathan-dev](#Ulaganathan_Profile)
+- **GitHub:** [[your-github-profile](https://github.com/Ulaganathan0709)](#Ulaganathan_Github)
 - **Email:** [your-email-address](#your_email)
 
 Let's connect to explore how we can make a difference in the tech world together!
