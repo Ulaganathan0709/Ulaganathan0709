@@ -1,6 +1,6 @@
 # Hello, I'm Ulaganathan 👋
 
-I'm a Test Analyst at Art Technologies Software Pvt Ltd, with a robust background in software testing and a keen interest in full stack development. I specialize in creating and executing comprehensive testing strategies to ensure software quality.
+I'm a Test Analyst at Art Technologies Software Pvt Ltd, with a robust background in software testing and a keen interest in full stack development. I specialize in creating and executing comprehensive test strategies, automation frameworks, and quality assurance processes across web and API applications.
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Language-C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -16,24 +16,28 @@ I'm a Test Analyst at Art Technologies Software Pvt Ltd, with a robust backgroun
 ![](https://img.shields.io/badge/Web-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Framework-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Runtime-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/BDD-Behave-6A9C3B?style=flat&logo=python&logoColor=white)
 
 ## 💼 Professional Experience
 - **Test Analyst** at Art Technologies Software Pvt Ltd
   - Mastery in Manual Testing and Automation with Selenium.
   - Proficient in C# and .NET framework-based development.
-  - Skilled in Behavior-Driven Development (BDD) practices.
+  - Skilled in Behavior-Driven Development (BDD) practices using tools such as SpecFlow and Behave (Python).
   - Extensive API testing experience using tools like Postman and Swagger.
+  - Experience implementing BDD test automation using Python's Behave framework.
   - Management of AWS EC2 instances and familiarity with CI/CD using Jenkins.
   - In-depth knowledge of database management with MySQL.
 
 ## 📚 Projects & Learning
 - Actively involved in learning full-stack development with the MERN stack.
+- Hands-on practice with test automation using Python and Behave to build readable BDD scenarios.
 - Planned and designed theoretical projects, with a focus on applying practical knowledge.
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [www.linkedin.com/in/ulaga-nathan-dev](#Ulaganathan_Profile)
-- **GitHub:** [[your-github-profile](https://github.com/Ulaganathan0709)](#Ulaganathan_Github)
-- **Email:** [your-email-address](#your_email)
+- **LinkedIn:** [www.linkedin.com/in/ulaga-nathan-dev](https://www.linkedin.com/in/ulaga-nathan-dev)
+- **GitHub:** [Ulaganathan0709](https://github.com/Ulaganathan0709)
+- **Email:** [your-email-address](mailto:your-email-address)
 
 Let's connect to explore how we can make a difference in the tech world together!
 
